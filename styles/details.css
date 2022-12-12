@@ -1,0 +1,14 @@
+.button {
+    margin: 1rem 0 2rem 0;
+    padding: 0.5rem;
+    background-color: rgb(82, 118, 238);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+    text-shadow: 1px 1px rgb(7, 7, 7);
+}
+div {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 1rem 0;
+
+}

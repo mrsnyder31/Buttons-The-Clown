@@ -1,0 +1,32 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Leslie"
+    },
+    {
+      "id": 2,
+      "name": "Mike"
+    }
+  ],
+  "reservations": [
+    {
+      "childCount": "2",
+      "parentName": "Working?",
+      "childName": "Working?",
+      "reservationDate": "2022-12-17",
+      "partyAddress": "Working?",
+      "reservationLength": "Working?",
+      "date_created": 1670620409811,
+      "id": 2
+    }
+  ],
+  "completions": [
+    {
+      "reservationId": "2",
+      "clownId": "1",
+      "date_completed": 1670620423273,
+      "id": 1
+    }
+  ]
+}
